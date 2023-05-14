@@ -1,3 +1,7 @@
+keyboards/*
+!keyboards/litl
+!keyboards/yampad
+
 # Junk files
 *.bak
 *.swp
