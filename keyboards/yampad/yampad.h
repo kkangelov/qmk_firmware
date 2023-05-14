@@ -16,6 +16,8 @@
  */
 #pragma once
 
+#include <stdio.h>
+
 #include "quantum.h"
 #define ___ KC_NO
 
